@@ -29,6 +29,7 @@ library:
     - ProblemOne
     - ProblemTwo
     - ProblemThree
+    - ProblemFour
 
 executables:
   project-euler-exe:
